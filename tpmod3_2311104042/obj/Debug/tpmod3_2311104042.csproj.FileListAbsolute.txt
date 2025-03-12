@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\bin\Debug\tpmod3_2311104042.exe.config
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\bin\Debug\tpmod3_2311104042.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\bin\Debug\tpmod3_2311104042.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.Form1.resources
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.Properties.Resources.resources
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\03_GUI_Builder_dan_GitHub\tpmod3_2311104042\tpmod3_2311104042\obj\Debug\tpmod3_2311104042.pdb

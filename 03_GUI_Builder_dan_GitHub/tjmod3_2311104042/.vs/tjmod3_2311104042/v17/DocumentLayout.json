@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tjmod3_2311104042\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tjmod3_2311104042\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tjmod3_2311104042\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tjmod3_2311104042\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,42 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.cs",
               "RelativeDocumentMoniker": "tjmod3_2311104042\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.cs",
               "RelativeToolTip": "tjmod3_2311104042\\Form1.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T10:19:02.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Program.cs",
               "RelativeDocumentMoniker": "tjmod3_2311104042\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Program.cs",
               "RelativeToolTip": "tjmod3_2311104042\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:16:46.441Z"
+              "WhenOpened": "2025-03-12T10:16:46.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "tjmod3_2311104042\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmod3_2311104042\\tjmod3_2311104042\\Form1.Designer.cs",
               "RelativeToolTip": "tjmod3_2311104042\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T10:15:11.872Z",
               "EditorCaption": ""

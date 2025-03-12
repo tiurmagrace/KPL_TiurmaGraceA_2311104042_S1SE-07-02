@@ -6,8 +6,8 @@ namespace KPL_TiurmaGraceA_2311104042_S1SE_07_02
     public partial class Form1 : Form
     {
         private string currentInput = "";
-        private string operand1 = "";
-        private string operation = "";
+        private int total = 0;  
+        private bool isNewInput = true;  
 
         public Form1()
         {
@@ -26,36 +26,39 @@ namespace KPL_TiurmaGraceA_2311104042_S1SE_07_02
 
             if (char.IsDigit(buttonText, 0))
             {
-                currentInput += buttonText;
+                if (isNewInput)
+                {
+                    currentInput = buttonText;  
+                    isNewInput = false;
+                }
+                else
+                {
+                    currentInput += buttonText;  
+                }
                 labelOutput.Text = currentInput;
             }
             else if (buttonText == "+")
             {
                 if (!string.IsNullOrEmpty(currentInput))
                 {
-                    operand1 = currentInput;
+                    total += int.Parse(currentInput);  
                     currentInput = "";
-                    operation = buttonText;
-                    labelOutput.Text = "0";
+                    labelOutput.Text = total.ToString();
+                    isNewInput = true;  
                 }
             }
             else if (buttonText == "=")
             {
-                if (!string.IsNullOrEmpty(operand1) && !string.IsNullOrEmpty(currentInput))
+                if (!string.IsNullOrEmpty(currentInput))
                 {
-                    int result = 0;
-
-                    if (operation == "+")
-                    {
-                        result = int.Parse(operand1) + int.Parse(currentInput);
-                    }
-
-                    labelOutput.Text = result.ToString();
-
-                    currentInput = "";
-                    operand1 = "";
-                    operation = "";
+                    total += int.Parse(currentInput);  
                 }
+
+                labelOutput.Text = total.ToString();
+
+                currentInput = "";
+                total = 0;
+                isNewInput = true;
             }
         }
     }

@@ -1,6 +1,27 @@
+# Visual Studio related
 .vs/
-tpmod5_2311104042/tpmod5_2311104042/obj/
-tpmod5_2311104042/tpmod5_2311104042/bin/
-obj/
+*.suo
+*.user
+*.cache
+*.pdb
+*.exe
+*.dll
+*.vscode/
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Build output
 bin/
+obj/
+tpmod5_2311104042/tpmod5_2311104042/bin/
+tpmod5_2311104042/tpmod5_2311104042/obj/
+
+# Solution files
 *.sln
+*.csproj
+
+# Temporary files
+*.tmp
+*.log
+*.bak

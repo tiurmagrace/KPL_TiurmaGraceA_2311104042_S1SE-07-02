@@ -1,23 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        Console.Write("Masukkan nama kelurahan: ");
-        string? kelurahan = Console.ReadLine();
-
-        if (string.IsNullOrWhiteSpace(kelurahan))
-        {
-            Console.WriteLine("Nama kelurahan tidak boleh kosong.");
-        }
-        else
-        {
-            string kodePos = KodePos.GetKodePos(kelurahan);
-            Console.WriteLine($"Kode pos {kelurahan}: {kodePos}");
-        }
-
-        Console.ReadLine(); // Mencegah konsol langsung tertutup
+        Console.Write("Masukkan nama buah: ");
+        string inputBuah = Console.ReadLine();
+        Console.WriteLine("Kode untuk {0} adalah: {1}", inputBuah, KodeBuah.getKodeBuah(inputBuah));
     }
 }

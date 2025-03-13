@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static void Main()
+    static void Main1()
     {
         Console.Write("Masukkan nama buah: ");
         string inputBuah = Console.ReadLine();

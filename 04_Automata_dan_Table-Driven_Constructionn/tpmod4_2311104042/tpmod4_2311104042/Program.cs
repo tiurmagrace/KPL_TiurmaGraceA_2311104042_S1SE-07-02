@@ -4,7 +4,7 @@ using tpmod4_2311104042;
 
 class Program
 {
-    static void Main()
+    static void Main1()
     {
         Console.Write("Masukkan nama kelurahan: ");
         string? kelurahan = Console.ReadLine();

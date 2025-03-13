@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\bin\Debug\net8.0\tpmod5_2311104042.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\bin\Debug\net8.0\tpmod5_2311104042.deps.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\bin\Debug\net8.0\tpmod5_2311104042.runtimeconfig.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\bin\Debug\net8.0\tpmod5_2311104042.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\bin\Debug\net8.0\tpmod5_2311104042.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.AssemblyInfo.cs
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.sourcelink.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\refint\tpmod5_2311104042.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\tpmod5_2311104042.genruntimeconfig.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\05_Generics\tpmod5_2311104042\tpmod5_2311104042\obj\Debug\net8.0\ref\tpmod5_2311104042.dll

@@ -10,6 +10,8 @@ class Program1
         pintu.KunciPintu(); 
         pintu.KunciPintu(); 
         pintu.BukaPintu();  
-        pintu.BukaPintu();  
+        pintu.BukaPintu();
+
+        Console.ReadLine();
     }
 }

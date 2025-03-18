@@ -2,24 +2,20 @@
 
 public class DoorMachine
 {
-    // Enum untuk mendefinisikan state pintu
     public enum State
     {
         Terkunci,
         Terbuka
     }
 
-    // Menyimpan state saat ini
     private State stateSekarang;
 
-    // Constructor: state awal terkunci
     public DoorMachine()
     {
         stateSekarang = State.Terkunci;
         TampilkanState();
     }
 
-    // Method untuk mengunci pintu
     public void KunciPintu()
     {
         if (stateSekarang == State.Terkunci)
@@ -33,7 +29,6 @@ public class DoorMachine
         }
     }
 
-    // Method untuk membuka pintu
     public void BukaPintu()
     {
         if (stateSekarang == State.Terbuka)
@@ -47,7 +42,6 @@ public class DoorMachine
         }
     }
 
-    // Method untuk menampilkan state saat ini
     private void TampilkanState()
     {
         if (stateSekarang == State.Terkunci)

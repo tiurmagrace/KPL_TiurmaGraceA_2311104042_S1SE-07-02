@@ -14,22 +14,20 @@ namespace tjmod5_2311104042
             float angka3 = 4f;  // dua digit ketiga NIM (04)
 
             var hasil = Penjumlahan.JumlahTigaAngka<float>(angka1, angka2, angka3);
-
             Console.WriteLine($"Hasil penjumlahan tiga angka: {hasil}");
 
+            Console.WriteLine("\n=== Implementasi Generic Class ===");
+
+            // Implementasi Generic Class
+            SimpleDataBase<int> database = new SimpleDataBase<int>();
+
+            database.AddNewData(23);
+            database.AddNewData(11);
+            database.AddNewData(4);
+
+            database.PrintAllData();
+
             Console.ReadKey();
-        }
-    }
-
-    public class Penjumlahan
-    {
-        public static T JumlahTigaAngka<T>(T angka1, T angka2, T angka3)
-        {
-            dynamic a = angka1;
-            dynamic b = angka2;
-            dynamic c = angka3;
-
-            return a + b + c;
         }
     }
 }

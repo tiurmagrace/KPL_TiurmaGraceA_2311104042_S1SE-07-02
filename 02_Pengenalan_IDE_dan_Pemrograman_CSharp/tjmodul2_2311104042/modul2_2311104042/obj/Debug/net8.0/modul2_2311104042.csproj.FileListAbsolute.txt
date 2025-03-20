@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\bin\Debug\net8.0\modul2_2311104042.exe
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\bin\Debug\net8.0\modul2_2311104042.deps.json
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\bin\Debug\net8.0\modul2_2311104042.runtimeconfig.json
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\bin\Debug\net8.0\modul2_2311104042.dll
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\bin\Debug\net8.0\modul2_2311104042.pdb
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.AssemblyInfo.cs
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.dll
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\refint\modul2_2311104042.dll
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.pdb
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\modul2_2311104042.genruntimeconfig.cache
+C:\Users\USER\source\repos\modul2_2311104042\modul2_2311104042\obj\Debug\net8.0\ref\modul2_2311104042.dll

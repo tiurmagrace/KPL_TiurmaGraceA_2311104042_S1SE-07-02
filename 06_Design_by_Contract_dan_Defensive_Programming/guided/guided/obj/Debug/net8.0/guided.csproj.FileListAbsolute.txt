@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.deps.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.runtimeconfig.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.AssemblyInfo.cs
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.sourcelink.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\refint\guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.genruntimeconfig.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\ref\guided.dll

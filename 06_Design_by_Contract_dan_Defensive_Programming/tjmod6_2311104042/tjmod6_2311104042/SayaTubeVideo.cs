@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+
 
 public class SayaTubeVideo
 {
@@ -8,6 +10,8 @@ public class SayaTubeVideo
 
     public SayaTubeVideo(string title)
     {
+        Debug.Assert(title != null && title.Length <= 100, "Judul tidak boleh null dan maksimal 100 karakter");
+
         Random random = new Random();
         this.id = random.Next(10000, 99999);
         this.title = title;
@@ -16,7 +20,19 @@ public class SayaTubeVideo
 
     public void IncreasePlayCount(int count)
     {
-        this.playCount += count;
+        Debug.Assert(count >= 0 && count <= 10000000, "Penambahan play count harus antara 0 dan 10.000.000");
+
+        try
+        {
+            checked
+            {
+                this.playCount += count;
+            }
+        }
+        catch (OverflowException)
+        {
+            Console.WriteLine("Overflow terjadi saat menambah play count.");
+        }
     }
 
     public void PrintVideoDetails()

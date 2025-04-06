@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 public class SayaTubeUser
 {
@@ -9,6 +10,8 @@ public class SayaTubeUser
 
     public SayaTubeUser(string username)
     {
+        Debug.Assert(username != null && username.Length <= 100, "Username tidak boleh null dan maksimal 100 karakter");
+
         Random random = new Random();
         this.id = random.Next(10000, 99999);
         this.Username = username;
@@ -17,6 +20,7 @@ public class SayaTubeUser
 
     public void AddVideo(SayaTubeVideo video)
     {
+        Debug.Assert(video != null, "Video tidak boleh null");
         this.uploadedVideos.Add(video);
     }
 

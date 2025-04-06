@@ -19,9 +19,16 @@ class Program
             "Review Film Tenet oleh Tiurma"
         };
 
+        Random rnd = new Random();
+
         foreach (string judul in judulFilm)
         {
             SayaTubeVideo video = new SayaTubeVideo(judul);
+
+
+            int count = rnd.Next(100, 1001);
+            video.IncreasePlayCount(count);
+
             user.AddVideo(video);
         }
 

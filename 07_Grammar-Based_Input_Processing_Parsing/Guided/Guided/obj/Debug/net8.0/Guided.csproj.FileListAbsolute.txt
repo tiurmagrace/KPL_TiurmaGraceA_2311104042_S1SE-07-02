@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.AssemblyInfo.cs
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.sourcelink.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\Guided.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\Guided.deps.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\Guided.runtimeconfig.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\Guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\Guided.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\refint\Guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\Guided.genruntimeconfig.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\obj\Debug\net8.0\ref\Guided.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\07_Grammar-Based_Input_Processing_Parsing\Guided\Guided\bin\Debug\net8.0\jurnal.json

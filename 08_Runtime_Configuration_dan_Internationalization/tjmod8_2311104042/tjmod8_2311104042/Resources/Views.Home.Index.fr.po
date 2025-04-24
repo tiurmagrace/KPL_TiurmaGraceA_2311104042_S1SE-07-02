@@ -1,0 +1,11 @@
+﻿msgid "Home Page"
+msgstr "Page d'accueil"
+
+msgid "Welcome, {0}!"
+msgstr "Bienvenue, {0} !"
+
+msgid "Learn about "
+msgstr "En savior plus sur "
+
+msgid "building Web apps with ASP.NET Core"
+msgstr "la construction d'applications Web avec ASP.NET Core"

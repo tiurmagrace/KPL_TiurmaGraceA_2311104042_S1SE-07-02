@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\10_Library_Construction\guided\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

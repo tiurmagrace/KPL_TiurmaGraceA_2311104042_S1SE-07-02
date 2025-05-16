@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfo.cs
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.sourcelink.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.exe
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.deps.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.runtimeconfig.json
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\refint\implement_dp.dll
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.pdb
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.genruntimeconfig.cache
+C:\Users\USER\source\repos\KPL_TiurmaGraceA_2311104042_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\ref\implement_dp.dll

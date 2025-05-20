@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjmod12_2311104042", "tjmod12_2311104042\tjmod12_2311104042.csproj", "{F1979728-A80F-4717-A131-DB26FBB4211E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1979728-A80F-4717-A131-DB26FBB4211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1979728-A80F-4717-A131-DB26FBB4211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1979728-A80F-4717-A131-DB26FBB4211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1979728-A80F-4717-A131-DB26FBB4211E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670B4F62-4B4A-437F-A8BD-0D3D9A745FEF}
+	EndGlobalSection
+EndGlobal

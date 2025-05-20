@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|solutionrelative:tjmod12_2311104042\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\pangkathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|solutionrelative:tjmod12_2311104042\\pangkathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|solutionrelative:tjmod12_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tjmod12_2311104042\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6CACAF-BB4C-41EA-A2CF-86F1F386C581}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1979728-A80F-4717-A131-DB26FBB4211E}|tjmod12_2311104042\\tjmod12_2311104042.csproj|solutionrelative:tjmod12_2311104042\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:17:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Program.cs",
+              "RelativeDocumentMoniker": "tjmod12_2311104042\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Program.cs",
+              "RelativeToolTip": "tjmod12_2311104042\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:13:44.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PangkatHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\PangkatHelper.cs",
+              "RelativeDocumentMoniker": "tjmod12_2311104042\\PangkatHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\PangkatHelper.cs",
+              "RelativeToolTip": "tjmod12_2311104042\\PangkatHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:03:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Form1.cs",
+              "RelativeDocumentMoniker": "tjmod12_2311104042\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Form1.cs",
+              "RelativeToolTip": "tjmod12_2311104042\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:01:43.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Form1.cs",
+              "RelativeDocumentMoniker": "tjmod12_2311104042\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tjmod12_2311104042\\tjmod12_2311104042\\Form1.cs [Design]",
+              "RelativeToolTip": "tjmod12_2311104042\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:00:32.294Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

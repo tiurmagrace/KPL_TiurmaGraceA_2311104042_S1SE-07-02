@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\15_review_tugas_besar\\tjmod15_2311104042\\tjmod15_2311104042\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|solutionrelative:tjmod15_2311104042\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\15_review_tugas_besar\\tjmod15_2311104042\\tjmod15_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|solutionrelative:tjmod15_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\15_review_tugas_besar\\tjmod15_2311104042\\tjmod15_2311104042\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E4EF1-9C34-48FA-91F7-AAB72640C3EA}|tjmod15_2311104042\\tjmod15_2311104042.csproj|solutionrelative:tjmod15_2311104042\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\Auth.cs",
+              "RelativeDocumentMoniker": "tjmod15_2311104042\\Auth.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\Auth.cs",
+              "RelativeToolTip": "tjmod15_2311104042\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:31:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\User.cs",
+              "RelativeDocumentMoniker": "tjmod15_2311104042\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\User.cs",
+              "RelativeToolTip": "tjmod15_2311104042\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:31:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\Program.cs",
+              "RelativeDocumentMoniker": "tjmod15_2311104042\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\15_Review_Tugas_Besar\\tjmod15_2311104042\\tjmod15_2311104042\\Program.cs",
+              "RelativeToolTip": "tjmod15_2311104042\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:28:43.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
